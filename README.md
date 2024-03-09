@@ -1,5 +1,5 @@
-# Hanyang_University_Game_Coding_Contest
-ERICA<br>
+# Hanyang_University_Game_Coding_Contest (ERICA)
+
 <br>
-Play<br>
+**Demo Play**<br>
 ![ex_screenshot](./img/play.gif)
